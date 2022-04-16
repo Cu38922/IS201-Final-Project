@@ -1,0 +1,37 @@
+.back-to-top {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: grey;
+  }
+  .two-columns {
+    -moz-column-count: 2;
+    -moz-column-gap: 20px;
+    -webkit-column-count: 2;
+    -webkit-column-gap: 20px;
+    column-count: 2;
+    column-gap: 20px;
+  }
+  .rightmenu {
+    top: 114px;
+    bottom: 64px;
+    right: 5px;
+    width: 200px;
+    border-left: solid 1px darkorange;
+    padding-left: 5px;
+}
+.homebg {
+  background-image: url('images/bridal_photos.JPG');
+  background-position: center center;
+}
+.to-byu {
+  font-he;
+}
+.home-font {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  color: rgb(31, 11, 56);
+  background-color: lightblue;
+}
+.bg {
+  text-color: blue;
+}
